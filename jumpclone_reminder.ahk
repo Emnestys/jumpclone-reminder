@@ -1,7 +1,7 @@
 ;################### This script is for reminding yourself to get out of skill clones :) ###########################
 ;################################################## Version 1.0 ####################################################
 
-#NoEnv                                                  ; for performance and compability with future ahk releases
+#NoEnv                                                  ; for performance and compatibility with future ahk releases
 SendMode Input                                          ; better speed and reliability
 
 ;################### Variables #####################################################################################
