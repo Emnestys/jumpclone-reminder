@@ -5,7 +5,7 @@
 SendMode Input                                          ; better speed and reliability
 
 ;################### Variables #####################################################################################
-; Change them to however you want
+; Change them to whatever you want
 
 Sleeptimer = 60000                                          ; Milliseconds till the script should start all over again
 Firstmessage = Make sure to change your Jumpclone
